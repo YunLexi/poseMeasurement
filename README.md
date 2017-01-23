@@ -4,7 +4,7 @@ code for this paper
 ---------------------------------------------------------------------------
 >dependency
 
-    opencv
+    opencv   Eigen
 >input
 
     path list of circle images(maybe show as eclips in images )
